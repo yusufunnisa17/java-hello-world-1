@@ -22,10 +22,10 @@
 <body>
     <h1>shoaib</h1>
     <p>this is sample page for deploying in tomcat server</p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
+    <p>yusufa</p>
+    <p>yusufa</p>
+    <p>yusufa</p>
+    <p>yusufa</p>
     <p></p>
     <p></p>
     <p></p>
