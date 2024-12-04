@@ -22,14 +22,14 @@
 <body>
     <h1>saimvv</h1>
     <p>this is sample page for deploying in tomcat server</p>
-    <p>yusufa</p>
+    <p>sagarika</p>
     <p>yusufa</p>
     <p>yusufa</p>
     <p>yusufa</p>
     <p>kavya</p>
     <p>kavya</p>
-    <p>yyyyyy</p>
-    <p>yusu</p>
+    <p></p>
+    <p></p>
     <p></p>
     <p></p>
     <p></p>
